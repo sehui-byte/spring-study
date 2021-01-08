@@ -31,6 +31,6 @@
 ✔️공부시 좋은 추천자료가 있다면 언제든지 추가해주세요.😊
 - [스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8#)
 - [유튜브 뉴렉쳐 스프링 강좌](https://youtube.com/playlist?list=PLq8wAnVUcTFUHYMzoV2RoFoY2HDTKru3T)
-- [부스트코스 - 웹 프로그래밍(풀스택)] (https://www.boostcourse.org/web316)
+- [부스트코스 - 웹 프로그래밍(풀스택)](https://www.boostcourse.org/web316)
 
   
